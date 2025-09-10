@@ -20,7 +20,7 @@ public class Main {
         students[4] = "Valentin";
         students[5] = "Ibrahim";
         students[6] = "Bill";
-        students[7] = "GenericStudent";
+        students[7] = "Alexandra";
 
         // Assign random results
         for (int i = 0; i < results.length; i++) {
